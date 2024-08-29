@@ -1,0 +1,61 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 65,
+  "boxShadow": "none",
+  "defaultOptionValue": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "isDisabled": false,
+  "isFilterable": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "psn3yf5scc",
+  "labelAlignment": "left",
+  "labelPosition": "Left",
+  "labelText": "",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 4,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 112,
+  "mobileLeftColumn": 2,
+  "mobileRightColumn": 22,
+  "mobileTopRow": 105,
+  "needsErrorInfo": false,
+  "optionLabel": "Label",
+  "optionValue": "Value",
+  "originalBottomRow": 64,
+  "originalTopRow": 60,
+  "parentColumnSpace": 19.5,
+  "parentId": "ch2nz9gqz5",
+  "parentRowSpace": 10,
+  "placeholderText": "โปรดอัพโหลดไฟล์เพื่อดูผล",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 32,
+  "serverSideFiltering": false,
+  "sourceData": "[\n  {\n    \"Label\": \"1\",\n    \"Value\": \"1\"\n  },\n  {\n    \"Label\": \"2\",\n    \"Value\": \"2\"\n  },\n  {\n    \"Label\": \"3.1\",\n    \"Value\": \"3.1\"\n  },\n  {\n    \"Label\": \"3.2\",\n    \"Value\": \"3.2\"\n  },\n  {\n    \"Label\": \"3.3\",\n    \"Value\": \"3.3\"\n  },\n  {\n    \"Label\": \"3.4\",\n    \"Value\": \"3.4\"\n  },\n  {\n    \"Label\": \"3.5\",\n    \"Value\": \"3.5\"\n  },\n  {\n    \"Label\": \"4\",\n    \"Value\": \"4\"\n  },\n  {\n    \"Label\": \"5\",\n    \"Value\": \"5\"\n  },\n  {\n    \"Label\": \"6\",\n    \"Value\": \"6\"\n  },\n  {\n    \"Label\": \"7\",\n    \"Value\": \"7\"\n  },\n  {\n    \"Label\": \"8\",\n    \"Value\": \"8\"\n  },\n  {\n    \"Label\": \"9\",\n    \"Value\": \"9\"\n  },\n  {\n    \"Label\": \"10\",\n    \"Value\": \"10\"\n  }\n]\n",
+  "topRow": 61,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "1c9lxjm26q",
+  "widgetName": "Category"
+}
